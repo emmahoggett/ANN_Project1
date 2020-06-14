@@ -25,7 +25,6 @@ pip3 install -e .
 ### Additional Content
 The folder `results` contains all results obtained through simulation.
 
-### Documentation
 
 ### Authors
 Members : Cadillon Alexandre, Hoggett Emma
